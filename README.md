@@ -21,7 +21,7 @@ SQLite does not support table and field comments so we are using external commen
             "field_name": "Field comment",
             "field_name2": "Field comment 2"
         }
-    },
+    }
 }
 ```
 
