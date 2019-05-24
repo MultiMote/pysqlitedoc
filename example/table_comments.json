@@ -1,0 +1,18 @@
+{
+    "roles": {
+        "comment": "Roles table description",
+        "fields": {
+            "id": "Role unique ID",
+            "description": "Role description"
+        }
+    },
+    "users": {
+        "comment": "Users table description",
+        "fields": {
+            "id": "",
+            "name": "User name",
+            "role": "User role ID",
+            "registration_date": "User registration date"
+        }
+    }
+}
